@@ -105,3 +105,5 @@ def test_somar_dois_numeros_lista_csv(num1, num2, resultado_esperado):
     # ASSERT/ Valida
     
     assert float(resultado_esperado) == resultado_obtido
+
+    
